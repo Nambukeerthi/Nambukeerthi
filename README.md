@@ -1,10 +1,8 @@
-### Hi there 👋
-
-## I'm Sadhil Chhabra.
+## I'm Nambu Keerthi.
 
 ### 💻 &nbsp;About Me 
 
-- 🎓 &nbsp; Completed my BTech in Computer Science from Bennett University, Greater Noida
+- 🎓 &nbsp; Completed my BCA from Alagappa University.
 - 🔍 &nbsp; I developed a keen interest in Python, Data Science and Data Analysis, fueling my ambition in these fields.
 
 
@@ -31,17 +29,8 @@
   ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-333333?style=flat&logo=microsoft-word)
 
 
-## My Stats
-<p align="center">
-  <a href="https://github.com/sadhilchhabra">
-    <img height="200em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sadhilchhabra&show_icons=true&theme=radical&line_height=27&alt='Sadhil's_github_stats'" />
-    <img height="200em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sadhilchhabra&theme=radical&hide_langs_below=1" />
-  </a>
-</p>
-
-
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sadhil-c-b32482193/"><img src="https://img.shields.io/badge/-Sadhil%20Chhabra-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:sadhil.chhabra@gmail.com"><img src="https://img.shields.io/badge/-sadhil.chhabra@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="www.linkedin.com/in/keerthi-r-9b8839283/"><img src="https://img.shields.io/badge/-Sadhil%20Chhabra-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:nambu935@gmail.com"><img src="https://img.shields.io/badge/-nambu935@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
