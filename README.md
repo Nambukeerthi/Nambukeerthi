@@ -32,5 +32,5 @@
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/keerthi-r-9b8839283/"><img src="https://img.shields.io/badge/-Nambu%20Keerthi-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="[www.linkedin.com/in/nambu-keerthi-r-9b8839283/](https://www.linkedin.com/in/nambu-keerthi-r-9b8839283/)"><img src="https://img.shields.io/badge/-Nambu%20Keerthi-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:nambu935@gmail.com"><img src="https://img.shields.io/badge/-nambu935@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
