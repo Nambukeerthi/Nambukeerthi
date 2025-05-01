@@ -2,8 +2,8 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🎓 &nbsp; I have completed my BCA from Alagappa University.
-- 🔍 &nbsp; I have developed a strong enthusiasm for Python, Data Science, and Data Analysis, inspiring me to pursue a career in these fields.
+- 🎓 &nbsp; I recently completed a Master’s in Data Science course at GUVI IIT-M.
+- 🔍 &nbsp; I have developed a strong enthusiasm for Python, Machine Learning, Data Analytics, and Deep Learning, inspiring me to pursue a career in these fields.
 
 
 ### 🛠 &nbsp;Tech Stack
